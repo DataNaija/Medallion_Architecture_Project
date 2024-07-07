@@ -7,3 +7,4 @@ The data contains historical information about customer orders for an auto parts
 The data in this project is fictitious and not real data about the company.
 
 # Medallion Architecture Diagram
+![alt text](https://github.com/DataNaija/Medallion_Architecture_Project/blob/main/MEDArch.png)
