@@ -10,5 +10,5 @@ The data in this project is fictitious and not real data about the company.
 ![alt text](https://github.com/DataNaija/Medallion_Architecture_Project/blob/main/MEDArch.png)
 
 
-# Link to Notebook
+# Link to Notebook (Bronze To Silver)
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4478562666292427/580405677327376/7407242872097132/latest.html
